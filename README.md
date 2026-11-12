@@ -7,6 +7,14 @@ The NAS provides centralised file storage accessible from both Linux and Windows
 
 The project demonstrates Linux system administration, storage management, network file sharing, firewall configuration and secure remote connectivity.
 
+## Hardware Setup
+
+<p align="center">
+  <img src="screenshots/PiSetup.jpg"
+       alt="Raspberry Pi NAS Hardware Setup"
+       width="300">
+</p>
+
 Hardware and Software
 
 Component
