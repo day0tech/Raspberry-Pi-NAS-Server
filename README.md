@@ -9,11 +9,29 @@ The project demonstrates Linux system administration, storage management, networ
 
 ## Hardware Setup
 
-<p align="center">
-  <img src="screenshots/PiSetup.jpg"
-       alt="Raspberry Pi NAS Hardware Setup"
-       width="300">
-</p>
+<h2>Hardware Setup & Project Documentation</h2>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<h3>Project Documentation</h3>
+
+<ol>
+<li><a href="docs/01-SSD-Preparation.md">SSD Preparation</a></li>
+<li><a href="docs/02-Raspberry-Pi-Storage-Mounting.md">Raspberry Pi Storage Mounting</a></li>
+<li><a href="docs/03-Samba-Configuration.md">Samba Configuration</a></li>
+<li><a href="docs/04-Linux-Client-Access.md">Linux Client Access</a></li>
+<li><a href="docs/05-Windows-Client-Access.md">Windows Client Access</a></li>
+<li><a href="docs/06-OPNsense-and-WireGuard-Configuration.md">OPNsense and WireGuard Configuration</a></li>
+</ol>
+
+</td>
+<td width="45%" align="center" valign="top">
+<img src="screenshots/PiSetup.jpg" alt="Raspberry Pi NAS hardware" width="300">
+</td>
+</tr>
+</table>
 
 ## Hardware and Software
 
