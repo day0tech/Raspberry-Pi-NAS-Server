@@ -26,7 +26,7 @@ The command prompted for authentication credentials before establishing the conn
 
 ## 2. Access the NAS Through Dolphin
 
-After connecting to the Samba share, the NAS files were accessed using the Dolphin file manager.
+After connecting to the Samba share, the NAS files were accessed using the Dolphin file manager, can also be done through any other file manager. 
 
 The NAS contained two folders created during testing:
 
