@@ -29,7 +29,7 @@ The configuration associates the Raspberry Pi's Ethernet MAC address with its de
 This configuration is intended to keep the NAS accessible at a consistent IP address, preventing its network location from changing when DHCP leases are renewed.
 
 <p align="center">
-  <img src="../screenshots/18PiReservedaddress.png" alt="OPNsense Raspberry Pi DHCP host configuration" width="650">
+  <img src="../screenshots/18PiReservedaddress.png" alt="OPNsense Raspberry Pi DHCP host configuration" width="400">
 </p>
 
 ## 2. WireGuard Remote Access
