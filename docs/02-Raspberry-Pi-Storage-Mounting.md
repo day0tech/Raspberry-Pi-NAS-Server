@@ -25,7 +25,7 @@ ssh user@192.168.1.175
 This allowed the Raspberry Pi to be configured without requiring a directly connected monitor or keyboard.
 
 <p align="center">
-  <img src="../screenshots/2connection(1).png" alt="SSH connection to Raspberry Pi" width="650">
+  <img src="../screenshots/2connection.png" alt="SSH connection to Raspberry Pi" width="650">
 </p>
 
 ## 3. Verify SSD Detection
